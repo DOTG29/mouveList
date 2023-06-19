@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+}
+
+body {
+    margin: 50px;
+}
+
+button {
+    margin-left: 20px;
+}
